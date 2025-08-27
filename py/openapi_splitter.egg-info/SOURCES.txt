@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+openapi_splitter/__init__.py
+openapi_splitter/cli.py
+openapi_splitter/core.py
+openapi_splitter.egg-info/PKG-INFO
+openapi_splitter.egg-info/SOURCES.txt
+openapi_splitter.egg-info/dependency_links.txt
+openapi_splitter.egg-info/entry_points.txt
+openapi_splitter.egg-info/not-zip-safe
+openapi_splitter.egg-info/requires.txt
+openapi_splitter.egg-info/top_level.txt
+tests/__init__.py
+tests/test_core.py
